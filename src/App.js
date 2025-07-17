@@ -6,7 +6,6 @@ const App = () => {
   const [currentLocation, setCurrentLocation] = useState('New York, NY');
   const [showLocationModal, setShowLocationModal] = useState(false);
 
-
   // Sample data
   const sampleProfiles = [
     {
